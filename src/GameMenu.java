@@ -11,7 +11,7 @@ public class GameMenu {
         MainMenu();
     }
 
-
+// main menu code
     public static void MainMenu() {
         Frame frame = new Frame("Game Menu");
         frame.setLayout(new GridLayout(4, 1)); // Grid layout for title, text fields, and button
